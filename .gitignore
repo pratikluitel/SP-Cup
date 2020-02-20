@@ -1,0 +1,9 @@
+"./IMU_camera Drone Synchronized training dataset_normal behabiour_no abnormalities/"
+./Proposal/
+./Proposal/major-proposal
+.ipynb_checkpoints/
+./proposal/
+*.pdf
+*.jpg
+*.csv
+*.png

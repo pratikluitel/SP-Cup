@@ -10,3 +10,6 @@ proposal
 *.jpg
 *.csv
 *.png
+
+# Ignore temp python files
+*.pyc
